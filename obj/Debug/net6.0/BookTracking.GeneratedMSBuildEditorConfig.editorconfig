@@ -9,97 +9,97 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BookTracking
 build_property.RootNamespace = BookTracking
-build_property.ProjectDir = c:\Users\sunme\OneDrive\Desktop\WebBookTracking\BookTracking\
+build_property.ProjectDir = C:\Users\sunme\OneDrive\Desktop\WebBookTracking\BookTracking\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\sunme\OneDrive\Desktop\WebBookTracking\BookTracking
+build_property.MSBuildProjectDirectory = C:\Users\sunme\OneDrive\Desktop\WebBookTracking\BookTracking
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/sunme/OneDrive/Desktop/WebBookTracking/BookTracking/Views/Books/Create.cshtml]
+[C:/Users/sunme/OneDrive/Desktop/WebBookTracking/BookTracking/Views/Books/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/sunme/OneDrive/Desktop/WebBookTracking/BookTracking/Views/Books/Delete.cshtml]
+[C:/Users/sunme/OneDrive/Desktop/WebBookTracking/BookTracking/Views/Books/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/sunme/OneDrive/Desktop/WebBookTracking/BookTracking/Views/Books/Details.cshtml]
+[C:/Users/sunme/OneDrive/Desktop/WebBookTracking/BookTracking/Views/Books/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/sunme/OneDrive/Desktop/WebBookTracking/BookTracking/Views/Books/Edit.cshtml]
+[C:/Users/sunme/OneDrive/Desktop/WebBookTracking/BookTracking/Views/Books/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/sunme/OneDrive/Desktop/WebBookTracking/BookTracking/Views/Books/Index.cshtml]
+[C:/Users/sunme/OneDrive/Desktop/WebBookTracking/BookTracking/Views/Books/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/sunme/OneDrive/Desktop/WebBookTracking/BookTracking/Views/Categories/Create.cshtml]
+[C:/Users/sunme/OneDrive/Desktop/WebBookTracking/BookTracking/Views/Categories/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/sunme/OneDrive/Desktop/WebBookTracking/BookTracking/Views/Categories/Delete.cshtml]
+[C:/Users/sunme/OneDrive/Desktop/WebBookTracking/BookTracking/Views/Categories/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/sunme/OneDrive/Desktop/WebBookTracking/BookTracking/Views/Categories/Details.cshtml]
+[C:/Users/sunme/OneDrive/Desktop/WebBookTracking/BookTracking/Views/Categories/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/sunme/OneDrive/Desktop/WebBookTracking/BookTracking/Views/Categories/Edit.cshtml]
+[C:/Users/sunme/OneDrive/Desktop/WebBookTracking/BookTracking/Views/Categories/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/sunme/OneDrive/Desktop/WebBookTracking/BookTracking/Views/Categories/Index.cshtml]
+[C:/Users/sunme/OneDrive/Desktop/WebBookTracking/BookTracking/Views/Categories/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/sunme/OneDrive/Desktop/WebBookTracking/BookTracking/Views/CategoryTypes/Create.cshtml]
+[C:/Users/sunme/OneDrive/Desktop/WebBookTracking/BookTracking/Views/CategoryTypes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlUeXBlc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/sunme/OneDrive/Desktop/WebBookTracking/BookTracking/Views/CategoryTypes/Delete.cshtml]
+[C:/Users/sunme/OneDrive/Desktop/WebBookTracking/BookTracking/Views/CategoryTypes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlUeXBlc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/sunme/OneDrive/Desktop/WebBookTracking/BookTracking/Views/CategoryTypes/Details.cshtml]
+[C:/Users/sunme/OneDrive/Desktop/WebBookTracking/BookTracking/Views/CategoryTypes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlUeXBlc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/sunme/OneDrive/Desktop/WebBookTracking/BookTracking/Views/CategoryTypes/Edit.cshtml]
+[C:/Users/sunme/OneDrive/Desktop/WebBookTracking/BookTracking/Views/CategoryTypes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlUeXBlc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/sunme/OneDrive/Desktop/WebBookTracking/BookTracking/Views/CategoryTypes/Index.cshtml]
+[C:/Users/sunme/OneDrive/Desktop/WebBookTracking/BookTracking/Views/CategoryTypes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlUeXBlc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/sunme/OneDrive/Desktop/WebBookTracking/BookTracking/Views/Home/Index.cshtml]
+[C:/Users/sunme/OneDrive/Desktop/WebBookTracking/BookTracking/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/sunme/OneDrive/Desktop/WebBookTracking/BookTracking/Views/Home/Privacy.cshtml]
+[C:/Users/sunme/OneDrive/Desktop/WebBookTracking/BookTracking/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/sunme/OneDrive/Desktop/WebBookTracking/BookTracking/Views/Shared/Error.cshtml]
+[C:/Users/sunme/OneDrive/Desktop/WebBookTracking/BookTracking/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/sunme/OneDrive/Desktop/WebBookTracking/BookTracking/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/sunme/OneDrive/Desktop/WebBookTracking/BookTracking/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/sunme/OneDrive/Desktop/WebBookTracking/BookTracking/Views/_ViewImports.cshtml]
+[C:/Users/sunme/OneDrive/Desktop/WebBookTracking/BookTracking/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/sunme/OneDrive/Desktop/WebBookTracking/BookTracking/Views/_ViewStart.cshtml]
+[C:/Users/sunme/OneDrive/Desktop/WebBookTracking/BookTracking/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/sunme/OneDrive/Desktop/WebBookTracking/BookTracking/Views/Shared/_Layout.cshtml]
+[C:/Users/sunme/OneDrive/Desktop/WebBookTracking/BookTracking/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-m918hoxgtb
